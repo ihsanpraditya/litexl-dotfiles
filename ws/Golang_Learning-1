@@ -1,0 +1,1 @@
+return { path = "/Users/ihsanpraditya/Desktop/Golang_Learning", documents = {["type"]="leaf",["views"]={[1]={["type"]="view",["scroll"]={["to"]={["y"]=0,["x"]=0},["x"]=0,["y"]=0},["active"]=true,["module"]="core.emptyview"}},["active_view"]=1}, directories = {} }

@@ -1,0 +1,1 @@
+return { path = "/Users/ihsanpraditya/Desktop/Lite-XL Project", documents = {["active_view"]=1,["type"]="leaf",["views"]={[1]={["scroll"]={["y"]=0,["x"]=0,["to"]={["y"]=0,["x"]=0}},["module"]="core.emptyview",["type"]="view",["active"]=true}}}, directories = {} }

@@ -1,1 +1,1 @@
-return { path = "/Users/ihsanpraditya/Documents/ihsanpraditya.web.id/themes/anubis", documents = {["type"]="leaf",["views"]={[1]={["type"]="view",["scroll"]={["x"]=0,["y"]=0,["to"]={["x"]=0,["y"]=0}},["module"]="core.emptyview",["active"]=true}},["active_view"]=1}, directories = {} }
+return { path = "/Users/ihsanpraditya/Documents/ihsanpraditya.web.id/themes/anubis", documents = {["views"]={[1]={["active"]=true,["type"]="view",["scroll"]={["to"]={["x"]=0,["y"]=0},["x"]=0,["y"]=0},["module"]="core.emptyview"}},["type"]="leaf",["active_view"]=1}, directories = {} }

@@ -19,7 +19,7 @@ config.plugins.bracketmatch = common.merge({
   -- can be "underline", "block", "frame", "none"
   style = "underline",
    -- color the bracket
-  color_char = false,
+  color_char = true,
   -- the size of the lines used in "underline" and "frame"
   line_size = math.ceil(1 * SCALE),
    -- The config specification used by the settings gui
@@ -271,8 +271,3 @@ command.add("core.docview", {
     end
   end,
 })
-
-keymap.add {
-  ["ctrl+m"] = "bracket-match:move-to-matching",
-  ["ctrl+shift+m"] = "bracket-match:select-to-matching",
-}

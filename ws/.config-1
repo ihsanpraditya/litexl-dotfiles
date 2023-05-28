@@ -1,0 +1,1 @@
+return { path = "/Users/ihsanpraditya/.config", documents = {["views"]={[1]={["module"]="core.emptyview",["type"]="view",["scroll"]={["to"]={["y"]=0,["x"]=0},["y"]=0,["x"]=0},["active"]=false}},["type"]="leaf",["active_view"]=1}, directories = {} }
